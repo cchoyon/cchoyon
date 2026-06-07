@@ -34,7 +34,7 @@ Here is how the game logic is performing in real-time:
 </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cchoyon&theme=radical&border_radius=10)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cchoyon&layout=compact&theme=tokyonight)
 ---
 
 ### 🌌 Active Quests & Systems
