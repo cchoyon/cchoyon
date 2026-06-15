@@ -35,10 +35,6 @@ Here is how the game logic is performing in real-time:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cchoyon&theme=radical&border_radius=10)
 
-### ⏱️ Weekly Dev Grind (WakaTime)
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
----
 
 ### 🌌 Active Quests & Systems
 - **Mechanics Design:** Perfecting 2D/3D platformer physics, snappy jump curves, and crisp character knockback response.
