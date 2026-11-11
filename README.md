@@ -24,19 +24,3 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-ffb74b?style=for-the-badge&logo=python&logoColor=1b7b89)
 
 ---
-
-### 📊 Dev Aura & Grinding Metrics
-Here is how the game logic is performing in real-time:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cchoyon&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180" alt="cchoyon stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchoyon&layout=compact&theme=radical&border_radius=10&hide=html,css" height="180" alt="cchoyon languages" />
-</p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cchoyon&theme=radical&border_radius=10)
-
-
-### 🌌 Active Quests & Systems
-- **Mechanics Design:** Perfecting 2D/3D platformer physics, snappy jump curves, and crisp character knockback response.
-- **NPC Logic:** Building behavior trees and state machines for smart, reactive enemies.
-- **Performance:** Optimizing code architecture to squeeze out every frame possible.
