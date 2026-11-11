@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🛠️ Core Engine & Toolkit
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ffb74b?style=for-the-badge&logo=python&logoColor=1b7b89)
 
 ---
 
